@@ -9,7 +9,7 @@ Unity 학습 리포지토리
 - 4단계 : UI를 갱신할 수 있도록 감독 스크립트를 준비한다.
 - 5단계 : 스크립트를 만드는 흐름을 생각한다.
 
-## ◎Roulette(클릭(https://github.com/yun10002/StudyUnity/tree/main/Roulette))
+## ◎Roulette([클릭](https://github.com/yun10002/StudyUnity/tree/main/Roulette))
 -Rotate 메소드 : 게임 오브젝트를 현재의 각도에서 인수 값만큼 회전(x축 방향, y축 방향, z축 방향)
 -2D에서는 z축을 중심으로 회전시켜야 하므로 회전 값을 세번째 인수로 지정.
 -매 프레임마다 회전값 각도로 회전.
